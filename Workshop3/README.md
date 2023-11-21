@@ -95,6 +95,7 @@ plt.xlabel("№ Уровня")
 plt.ylabel("Сложность")
 plt.show()
 ```
+![Alt text](image-4.png)
 ![Alt text](myplot-1.png)
 
 ## Выводы
